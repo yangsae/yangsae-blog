@@ -1,4 +1,17 @@
 baseURL = "https://yangsae.github.io/"
 languageCode = "en-us"
-title = "yangsae's blog"
+title = "blog"
 theme = "book"
+copyright = "&copy; Copyright 2019 saerohoon yang"
+
+# Code highlight
+pygmentsStyle = "monokailight"
+pygmentsCodeFences = true
+
+[params]
+  dateFormat = "2006-01-02"
+  BookShowToC = true
+  BookMenuBundle = "/menu"
+
+[params.author]
+  name = "yangsae"

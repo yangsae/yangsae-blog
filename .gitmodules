@@ -5,3 +5,12 @@
 	path = public
 	url = git@github.com:yangsae/yangsae.github.io.git
 	branch = master
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/whiteplain"]
+	path = themes/whiteplain
+	url = https://github.com/taikii/whiteplain.git
+[submodule "themes/whiteplain-dark"]
+	path = themes/whiteplain-dark
+	url = https://github.com/taikii/whiteplain-dark.git
