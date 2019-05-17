@@ -12,6 +12,7 @@ pygmentsCodeFences = true
   dateFormat = "2006-01-02"
   BookShowToC = true
   BookMenuBundle = "/menu"
+  BookSection = "docs"
 
 [params.author]
   name = "yangsae"
